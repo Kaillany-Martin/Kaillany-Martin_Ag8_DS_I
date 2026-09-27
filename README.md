@@ -15,3 +15,7 @@ O projeto introduz os contadores e a estrutura de repetição, como pedido na ta
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 
 ### Primeira Execução correta
+<img width="935" height="730" alt="Captura de tela 2026-09-26 215413" src="https://github.com/user-attachments/assets/a31d96b6-c563-4cd1-997d-79f4989fdd05" />
+<img width="717" height="728" alt="Captura de tela 2026-09-26 215437" src="https://github.com/user-attachments/assets/ae9ddc53-1a9a-4bc9-9dbf-7040e7d87bef" />
+<img width="736" height="517" alt="Captura de tela 2026-09-26 215459" src="https://github.com/user-attachments/assets/58e33f22-ea95-4dda-a843-74c08db58509" />
+
